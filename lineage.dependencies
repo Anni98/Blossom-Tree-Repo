@@ -1,0 +1,12 @@
+[
+ {
+   "repository"  : "android_vendor_xiaomi_dandelion",
+   "target_path" : "vendor/xiaomi/dandelion"
+ },
+ {
+   "remote"	 : "github",
+   "repository"  : "PixelExperience/device_mediatek_sepolicy_vndr",
+   "target_path" : "device/mediatek/sepolicy_vndr",
+   "revision:	 : "eleven"
+ }
+]
